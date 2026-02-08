@@ -26,7 +26,7 @@ I enjoy solving problems and building clean, scalable software solutions.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushant-bit&theme=tokyo-night&hide_border=true" />
 </p>
 
-📈 Shows consistent coding activity over time.
+
 
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30"/> LeetCode
