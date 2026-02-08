@@ -19,6 +19,27 @@ I enjoy solving problems and building clean, scalable software solutions.
 
 
 
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sushant-adhikari-2a6144319" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sushantadhikari944@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sushant-bit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+📩 Open to collaboration, internships, and learning opportunities.  
+💡 Always happy to connect with fellow developers and tech enthusiasts.
+
+
+
+
+
 
 
 
