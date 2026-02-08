@@ -13,4 +13,12 @@ I enjoy solving problems and building clean, scalable software solutions.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/DSA-In%20Progress-green?style=for-the-badge&logo=leetcode)
 
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sushant-bit&hide_border=true)
+
+
+
+
+
 
