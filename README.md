@@ -1,9 +1,12 @@
-# Hi 👋 I'm Sushant Adhikari
-### 🎓 BSIT Student | 🚀 DSA Enthusiast | ☕ Java 
+# <img src="https://cdn-icons-png.freepik.com/512/12965/12965382.png" alt="Sushant Adhikari" width="40"/> Hi 👋 I'm Sushant Adhikari
+
+### <img src="https://cdn-icons-png.flaticon.com/512/0/422.png" alt="BSIT" width="25"/> BSIT Student | <img src="https://static.thenounproject.com/png/1430829-200.png" alt="DSA" width="25"/> DSA Enthusiast | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="25"/> Java
+
 
 I enjoy solving problems and building clean, scalable software solutions.
 
-## 🛠 Tech Stack
+## <img src="https://cdn-icons-png.flaticon.com/512/18510/18510682.png" alt="Tech Stack" width="30"/> Tech Stack
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -13,19 +16,20 @@ I enjoy solving problems and building clean, scalable software solutions.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/DSA-In%20Progress-green?style=for-the-badge&logo=leetcode)
 
-## 📊 GitHub Stats
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30"/> GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sushant-bit&hide_border=true)
 
-## 📈 Contribution Graph
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30"/> Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushant-bit&theme=tokyo-night&hide_border=true" />
-
 </p>
 
+📈 Shows consistent coding activity over time.
 
-## 🧠 LeetCode
+
+## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30"/> LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/sushant7874/" target="_blank">
@@ -35,11 +39,11 @@ I enjoy solving problems and building clean, scalable software solutions.
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sushant7874?theme=dark&ext=heatmap" />
-
-
 </p>
 
 📈 Consistently solving problems to strengthen DSA and algorithmic thinking.
+
+
 
 
 ## 🌐 Connect With Me
