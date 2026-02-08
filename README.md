@@ -41,7 +41,6 @@ I enjoy solving problems and building clean, scalable software solutions.
   <img src="https://leetcard.jacoblin.cool/sushant7874?theme=dark&ext=heatmap" />
 </p>
 
-📈 Consistently solving problems to strengthen DSA and algorithmic thinking.
 
 
 
