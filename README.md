@@ -17,6 +17,21 @@ I enjoy solving problems and building clean, scalable software solutions.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sushant-bit&hide_border=true)
 
+## 🧠 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/sushant7874/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-sushant7874-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sushant7874?theme=dark&ext=heatmap" />
+
+
+</p>
+
+📈 Consistently solving problems to strengthen DSA and algorithmic thinking.
 
 
 ## 🌐 Connect With Me
