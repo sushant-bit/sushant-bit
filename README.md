@@ -17,6 +17,14 @@ I enjoy solving problems and building clean, scalable software solutions.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sushant-bit&hide_border=true)
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushant-bit&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+
 ## 🧠 LeetCode
 
 <p align="center">
