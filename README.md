@@ -1,4 +1,13 @@
-# <img src="https://cdn-icons-png.freepik.com/512/12965/12965382.png" alt="Sushant Adhikari" width="40"/> Hi 👋 I'm Sushant Adhikari
+<p align="center">
+  <img src="https://cdn-icons-png.freepik.com/512/12965/12965382.png" alt="Sushant Adhikari" width="70"/>
+</p>
+
+<h1 align="center">
+  Namaste <img src="https://media.istockphoto.com/id/1308400681/vector/human-hands-folded-in-prayer-clasped-hands-mudra-namaste-hands-folded-in-a-welcome-gesture.jpg?s=612x612&w=0&k=20&c=shvMHk-cO2-UVbV8jQnJrzriY_vBIRJW6ZKWJQLX5DU=" alt="Namaste Hands" width="50"/>, I'm <b>Sushant Adhikari</b>
+</h1>
+
+
+
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/0/422.png" alt="BSIT" width="25"/> BSIT Student | <img src="https://static.thenounproject.com/png/1430829-200.png" alt="DSA" width="25"/> DSA Enthusiast | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="25"/> Java
 
