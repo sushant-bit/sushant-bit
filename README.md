@@ -28,8 +28,11 @@ I enjoy solving problems and building clean, scalable software solutions.
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30"/> GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sushant-bit&theme=dark&hide_border=true&cache_seconds=86400" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sushant-bit&theme=java-dark" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 
 
