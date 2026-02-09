@@ -27,7 +27,8 @@ I enjoy solving problems and building clean, scalable software solutions.
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30"/> GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sushant-bit&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sushant-bit&hide_border=true&cache_seconds=86400)
+
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30"/> Contribution Graph
 
