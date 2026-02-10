@@ -65,7 +65,7 @@ I enjoy solving problems and building clean, scalable software solutions.
 
 
 
-## 🌐 Connect With Me
+## <img src="https://cdn-icons-png.flaticon.com/512/3775/3775201.png" alt="Connect Logo" width="28" height="28"> Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sushant-adhikari-2a6144319" target="_blank">
