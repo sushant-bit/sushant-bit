@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://cdn-icons-png.freepik.com/512/12965/12965382.png" alt="Sushant Adhikari" width="70"/>
+  <img src="https://raw.githubusercontent.com/sushant-bit/sushant-bit/main/Arcane-potrait-pp.png"
+       alt="Sushant Adhikari"
+       width="180"/>
 </p>
+
 
 <h1 align="center">
   Namaste <img src="https://media.istockphoto.com/id/1308400681/vector/human-hands-folded-in-prayer-clasped-hands-mudra-namaste-hands-folded-in-a-welcome-gesture.jpg?s=612x612&w=0&k=20&c=shvMHk-cO2-UVbV8jQnJrzriY_vBIRJW6ZKWJQLX5DU=" alt="Namaste Hands" width="50"/>, I'm <b>Sushant Adhikari</b>
