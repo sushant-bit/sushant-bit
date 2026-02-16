@@ -28,31 +28,43 @@ I enjoy solving problems and building clean, scalable software solutions.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/DSA-In%20Progress-green?style=for-the-badge&logo=leetcode)
 
-## <img src="https://freemiumicons.com/wp-content/uploads/2023/06/it-project-icon-1.png" alt="Project Logo" width="30"/> Projects
 
-<p align="center">
-  <!-- Random Dog Image Generator -->
-  <a href="https://github.com/sushant-bit/random-dog-image-generator" target="_blank">
-    <img src="https://freemiumicons.com/wp-content/uploads/2023/06/it-project-icon-1.png" alt="Random Dog Project" width="120" style="border-radius:15px;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Ghar Sajau Project -->
-  <a href="https://github.com/sushant-bit/Web-Project-Ghar-Sajau-" target="_blank">
-    <img src="https://freemiumicons.com/wp-content/uploads/2023/06/it-project-icon-1.png" alt="Ghar Sajau Project" width="120" style="border-radius:15px;"/>
-  </a>
-</p>
+## <img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" alt="Projects" width="30"/> Featured Projects
 
-<p align="center">
-  <b>Random Dog Image Generator</b><br/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2867/2867342.png" alt="Laptop" width="20"/> HTML, CSS & JavaScript<br/>
-  A fun and interactive web app that fetches and displays random dog images from an API.
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Web Project: Ghar Sajau</b><br/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2867/2867342.png" alt="Laptop" width="20"/> HTML, CSS & JavaScript<br/>
-  Concept design for an online furniture store. Includes product browsing, company info, testimonials, and contact pages. Showcases UI/UX design.
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 Ghar Sajau
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sushant-bit/Web-Project-Ghar-Sajau-)
+
+A concept design for an online furniture store featuring beautiful, high-quality furniture with attractive deals and offers. Includes product browsing, company info, testimonials, and contact pages to demonstrate e-commerce UI/UX design.
+
+**Tech Stack:** 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🐕 Random Dog Image Generator
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sushant-bit/random-dog-image-generator)
+
+A fun web app that fetches and displays random dog images using API integration.
+
+**Tech Stack:** 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
 
