@@ -41,7 +41,7 @@ I enjoy solving problems and building clean, scalable software solutions.
 [![Live](https://img.shields.io/badge/Live-Preview-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://sushant-bit.github.io/Web-Project-Ghar-Sajau-/)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F75C7E,F7A83E,00C7B7,9D4EDD,3BCEAC&multiline=true&repeat=true&width=435&height=60&lines=Concept+design+for+an+online+furniture+store;with+product+browsing%2C+testimonials%2C+and+contact" alt="Description" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=F75C7E,F7A83E,00C7B7,9D4EDD,3BCEAC&center=true&vCenter=true&multiline=true&repeat=true&width=450&height=80&lines=Concept+design+for+an+online;furniture+store+with+product+browsing,;company+info,+testimonials,;and+contact+pages." alt="Description" />
 </p>
 
 **Tech Stack:** 
@@ -57,7 +57,7 @@ I enjoy solving problems and building clean, scalable software solutions.
 [![Live](https://img.shields.io/badge/Live-Preview-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://sushant-bit.github.io/random-dog-image-generator/)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F75C7E,F7A83E,00C7B7,9D4EDD,3BCEAC&multiline=true&repeat=true&width=435&height=60&lines=A+fun+web+app+that+fetches+and+displays;random+dog+images+using+API+integration" alt="Description" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=F75C7E,F7A83E,00C7B7,9D4EDD,3BCEAC&center=true&vCenter=true&multiline=true&repeat=true&width=450&height=80&lines=A+fun+web+app+that+fetches;and+displays+random+dog+images;using+API+integration." alt="Description" />
 </p>
 
 **Tech Stack:** 
