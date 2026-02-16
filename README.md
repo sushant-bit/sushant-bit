@@ -36,7 +36,7 @@ I enjoy solving problems and building clean, scalable software solutions.
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 Ghar Sajau
+### <img src="https://cdn-icons-png.flaticon.com/512/10001/10001869.png" alt="Ghar Sajau" width="30"/> Ghar Sajau
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sushant-bit/Web-Project-Ghar-Sajau-)
 [![Live](https://img.shields.io/badge/Live-Preview-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://sushant-bit.github.io/Web-Project-Ghar-Sajau-/)
 
@@ -50,7 +50,7 @@ Concept design for an online furniture store with product browsing, company info
 </td>
 <td width="50%" valign="top">
 
-### 🐕 Random Dog Image Generator
+### <img src="https://cdn-icons-png.flaticon.com/512/620/620851.png" alt="Dog" width="30"/> Random Dog Image Generator
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sushant-bit/random-dog-image-generator)
 [![Live](https://img.shields.io/badge/Live-Preview-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://sushant-bit.github.io/random-dog-image-generator/)
 
