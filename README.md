@@ -28,7 +28,7 @@ I enjoy solving problems and building clean, scalable software solutions.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/DSA-In%20Progress-green?style=for-the-badge&logo=leetcode)
 
-## <img src="https://freemiumicons.com/wp-content/uploads/2023/06/it-project-icon-1.png" alt="Project Logo" width="30"/> Projects
+## <img src="https://freemiumicons.com/wp-content/uploads/2023/06/it-project-icon-1.png" alt="Project Logo" width="40"/> Projects
 
 ### [Random Dog Image Generator](https://github.com/sushant-bit/random-dog-image-generator)
 💻 Built with HTML, CSS & JavaScript  
