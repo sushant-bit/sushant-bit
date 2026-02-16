@@ -28,7 +28,6 @@ I enjoy solving problems and building clean, scalable software solutions.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/DSA-In%20Progress-green?style=for-the-badge&logo=leetcode)
 
-
 ## <img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" alt="Projects" width="30"/> Featured Projects
 
 <div align="center">
@@ -39,6 +38,7 @@ I enjoy solving problems and building clean, scalable software solutions.
 
 ### 🏠 Ghar Sajau
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sushant-bit/Web-Project-Ghar-Sajau-)
+[![Live](https://img.shields.io/badge/Live-Preview-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://sushant-bit.github.io/Web-Project-Ghar-Sajau-/)
 
 Concept design for an online furniture store with product browsing, company info, testimonials, and contact pages.
 
@@ -52,6 +52,7 @@ Concept design for an online furniture store with product browsing, company info
 
 ### 🐕 Random Dog Image Generator
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sushant-bit/random-dog-image-generator)
+[![Live](https://img.shields.io/badge/Live-Preview-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://sushant-bit.github.io/random-dog-image-generator/)
 
 A fun web app that fetches and displays random dog images using API integration.
 
@@ -65,6 +66,8 @@ A fun web app that fetches and displays random dog images using API integration.
 </table>
 
 </div>
+
+
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30"/> GitHub Stats
 
