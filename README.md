@@ -28,17 +28,32 @@ I enjoy solving problems and building clean, scalable software solutions.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/DSA-In%20Progress-green?style=for-the-badge&logo=leetcode)
 
-## <img src="https://freemiumicons.com/wp-content/uploads/2023/06/it-project-icon-1.png" alt="Project Logo" width="40"/> Projects
+## <img src="https://freemiumicons.com/wp-content/uploads/2023/06/it-project-icon-1.png" alt="Project Logo" width="30"/> Projects
 
-### [Random Dog Image Generator](https://github.com/sushant-bit/random-dog-image-generator)
-💻 Built with HTML, CSS & JavaScript  
-📌 A fun and interactive web app that fetches and displays random dog images from an API.  
-![Project Image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <!-- Random Dog Image Generator -->
+  <a href="https://github.com/sushant-bit/random-dog-image-generator" target="_blank">
+    <img src="https://freemiumicons.com/wp-content/uploads/2023/06/it-project-icon-1.png" alt="Random Dog Project" width="120" style="border-radius:15px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Ghar Sajau Project -->
+  <a href="https://github.com/sushant-bit/Web-Project-Ghar-Sajau-" target="_blank">
+    <img src="https://freemiumicons.com/wp-content/uploads/2023/06/it-project-icon-1.png" alt="Ghar Sajau Project" width="120" style="border-radius:15px;"/>
+  </a>
+</p>
 
-### [Web Project: Ghar Sajau](https://github.com/sushant-bit/Web-Project-Ghar-Sajau-)
-💻 Built with HTML, CSS & JavaScript  
-📌 A concept design for an online furniture store. Features pages for browsing products, reading about the company, viewing testimonials, and contacting support. Designed to showcase **UI/UX design** and e-commerce website layout.  
-![Project Image](https://img.shields.io/badge/Web-Design-blue?style=for-the-badge)
+<p align="center">
+  <b>Random Dog Image Generator</b><br/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2867/2867342.png" alt="Laptop" width="20"/> HTML, CSS & JavaScript<br/>
+  A fun and interactive web app that fetches and displays random dog images from an API.
+</p>
+
+<p align="center">
+  <b>Web Project: Ghar Sajau</b><br/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2867/2867342.png" alt="Laptop" width="20"/> HTML, CSS & JavaScript<br/>
+  Concept design for an online furniture store. Includes product browsing, company info, testimonials, and contact pages. Showcases UI/UX design.
+</p>
+
 
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30"/> GitHub Stats
