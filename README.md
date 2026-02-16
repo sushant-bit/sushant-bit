@@ -40,7 +40,9 @@ I enjoy solving problems and building clean, scalable software solutions.
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sushant-bit/Web-Project-Ghar-Sajau-)
 [![Live](https://img.shields.io/badge/Live-Preview-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://sushant-bit.github.io/Web-Project-Ghar-Sajau-/)
 
-Concept design for an online furniture store with product browsing, company info, testimonials, and contact pages.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F75C7E,F7A83E,00C7B7,9D4EDD,3BCEAC&multiline=true&repeat=true&width=435&height=60&lines=Concept+design+for+an+online+furniture+store;with+product+browsing%2C+testimonials%2C+and+contact" alt="Description" />
+</p>
 
 **Tech Stack:** 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -54,7 +56,9 @@ Concept design for an online furniture store with product browsing, company info
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sushant-bit/random-dog-image-generator)
 [![Live](https://img.shields.io/badge/Live-Preview-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://sushant-bit.github.io/random-dog-image-generator/)
 
-A fun web app that fetches and displays random dog images using API integration.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F75C7E,F7A83E,00C7B7,9D4EDD,3BCEAC&multiline=true&repeat=true&width=435&height=60&lines=A+fun+web+app+that+fetches+and+displays;random+dog+images+using+API+integration" alt="Description" />
+</p>
 
 **Tech Stack:** 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
