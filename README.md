@@ -40,12 +40,12 @@ I enjoy solving problems and building clean, scalable software solutions.
 ### 🏠 Ghar Sajau
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sushant-bit/Web-Project-Ghar-Sajau-)
 
-A concept design for an online furniture store featuring beautiful, high-quality furniture with attractive deals and offers. Includes product browsing, company info, testimonials, and contact pages to demonstrate e-commerce UI/UX design.
+Concept design for an online furniture store with product browsing, company info, testimonials, and contact pages.
 
 **Tech Stack:** 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 <td width="50%" valign="top">
@@ -56,17 +56,15 @@ A concept design for an online furniture store featuring beautiful, high-quality
 A fun web app that fetches and displays random dog images using API integration.
 
 **Tech Stack:** 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
 </tr>
 </table>
 
 </div>
-
-
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30"/> GitHub Stats
 
